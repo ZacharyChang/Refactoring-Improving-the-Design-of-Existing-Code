@@ -14,4 +14,5 @@
    * [重构与性能](zhong_gou_yu_xing_neng.md)
    * [重构起源何处](zhong_gou_qi_yuan_he_chu.md)
 * [第三章 代码的坏味道](di_san_zhang_dai_ma_de_huai_wei_dao.md)
+   * 重复代码
 
