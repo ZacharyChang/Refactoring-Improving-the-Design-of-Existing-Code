@@ -8,5 +8,5 @@
    * [1.何为重构](he_wei_zhong_gou.md)
    * [2.为何重构](wei_he_zhong_gou.md)
    * [3.何时重构](he_shi_zhong_gou.md)
-   * 怎么对经理说
+   * [怎么对经理说](zen_yao_dui_jing_li_shuo.md)
 
