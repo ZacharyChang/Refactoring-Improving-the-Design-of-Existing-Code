@@ -11,4 +11,5 @@
    * [怎么对经理说](zen_yao_dui_jing_li_shuo.md)
    * [重构的难题](zhong_gou_de_nan_ti.md)
    * [重构与设计](zhong_gou_yu_she_ji.md)
+   * 重构与性能
 
