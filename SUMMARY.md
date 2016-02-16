@@ -7,4 +7,5 @@
 * [第二章](chapter2.md)
    * [1.何为重构](he_wei_zhong_gou.md)
    * [2.为何重构](wei_he_zhong_gou.md)
+       * 何时重构
 
