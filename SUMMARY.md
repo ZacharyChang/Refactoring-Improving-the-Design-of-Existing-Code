@@ -8,6 +8,6 @@
    * [何为重构](he_wei_zhong_gou.md)
    * [为何重构](wei_he_zhong_gou.md)
    * [何时重构](he_shi_zhong_gou.md)
-   * [2.4 怎么对经理说](zen_yao_dui_jing_li_shuo.md)
+   * [怎么对经理说](zen_yao_dui_jing_li_shuo.md)
    * [2.5 重构的难题](zhong_gou_de_nan_ti.md)
 
