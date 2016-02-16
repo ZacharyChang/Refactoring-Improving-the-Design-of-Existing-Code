@@ -5,7 +5,7 @@
 * [第一章](chapter1.md)
    * [1 重构，第一个案例](zhong_gou_ff0c_di_yi_ge_an_li.md)
 * [第二章](chapter2.md)
-   * [2.1 何为重构](he_wei_zhong_gou.md)
+   * [何为重构](he_wei_zhong_gou.md)
    * [2.2 为何重构](wei_he_zhong_gou.md)
    * [2.3 何时重构](he_shi_zhong_gou.md)
    * [2.4 怎么对经理说](zen_yao_dui_jing_li_shuo.md)
