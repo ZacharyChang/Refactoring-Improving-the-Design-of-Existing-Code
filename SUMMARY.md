@@ -10,5 +10,5 @@
    * [何时重构](he_shi_zhong_gou.md)
    * [怎么对经理说](zen_yao_dui_jing_li_shuo.md)
    * [重构的难题](zhong_gou_de_nan_ti.md)
-   * 重构与设计
+   * [重构与设计](zhong_gou_yu_she_ji.md)
 
