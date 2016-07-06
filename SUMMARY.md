@@ -60,5 +60,5 @@
    * [Extract Class](extract_class.md)
    * [Inline Class](inline_class.md)
    * [Hide Delegate](hide_delegate.md)
-   * Remove Middle Man
+   * [Remove Middle Man](remove_middle_man.md)
 
