@@ -1,2 +1,7 @@
-# 狎昵关系
+# 狎昵关系 Inappropriate Intimacy
 
+有时你会看到两个类过于亲密，花费太多时间去探究彼此的private成分。如果这发生在两个“人”之间，我们不必做卫道士；仴对于类，我们希望它们严守淸规。
+
+就像古代恋人一样，过分狎昵的类必须拆散。你叮以采用Move Method和Move Field帮它们划清界线，从而减少狎昵行径。你也可以看看是否可以运用Change Bidirectional Association to Unidirectional让其中一个类对另一个斩断情丝。如果两个类实在是情投意合，可以运用Extract Class把两者共同点提炼到一个安全地点，让它们坦荡地使用这个新类。或者也可以尝试运用Hide Delegate让另一个类来为它们传递相思情。
+
+继承往往造成过度亲密，因为子类对超类的了解总是超过后者的主观愿望。如 果你觉得该让这个孩子独自生活了，请运用Replace Inheritance with Delegation让它离开继承体系。
