@@ -65,5 +65,5 @@
    * [Introduce Local Extension](introduce_local_extension.md)
 * [第八章 重新组织数据](di_ba_zhang_zhong_xin_zu_zhi_shu_ju.md)
    * [Self Encapsulate Field](self_encapsulate_field.md)
-   * Replace Data Value with Object
+   * [Replace Data Value with Object](replace_data_value_with_object.md)
 
