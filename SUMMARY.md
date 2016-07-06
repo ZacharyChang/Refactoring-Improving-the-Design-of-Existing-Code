@@ -3,7 +3,6 @@
 * [Introduction](README.md)
    * [序言](xu_yan.md)
 * [第一章 重构，第一个案例](chapter1.md)
-   * [重构，第一个案例](zhong_gou_ff0c_di_yi_ge_an_li.md)
    * [起点](qi_dian.md)
    * [重构的第一步](zhong_gou_de_di_yi_bu.md)
    * [分解并重组statement ()](fen_jie_bing_zhong_zu_statement.md)
