@@ -38,7 +38,7 @@
    * [过多的注释](guo_duo_de_zhu_shi.md)
 * [第四章 构筑测试体系](di_si_zhang_gou_zhu_ce_shi_ti_xi.md)
    * [自测试代码的价值](zi_ce_shi_dai_ma_de_jia_zhi.md)
-   * [JUnit测试框架](junitce_shi_kuang_jia.md)
+   * [JUnit测试框架](junit_ce_shi_kuang_jia.md)
    * [添加更多测试](tian_jia_geng_duo_ce_shi.md)
 * [第五章 重构列表](di_wu_zhang_zhong_gou_lie_biao.md)
    * [重构的记录格式](zhong_gou_de_ji_lu_ge_shi.md)
