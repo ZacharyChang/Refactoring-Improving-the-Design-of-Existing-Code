@@ -63,4 +63,5 @@
    * [Remove Middle Man](remove_middle_man.md)
    * [Introduce Foreign Method](introduce_foreign_method.md)
    * [Introduce Local Extension](introduce_local_extension.md)
+* 第八章 重新组织数据
 
