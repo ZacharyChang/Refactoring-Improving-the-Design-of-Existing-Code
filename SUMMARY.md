@@ -21,5 +21,5 @@
    * [发散式变化](fa_san_shi_bian_hua.md)
    * [霰弹式修改](xian_dan_shi_xiu_gai.md)
    * [依恋情结](yi_lian_qing_jie.md)
-   * 数据泥团
+   * [数据泥团](shu_ju_ni_tuan.md)
 
