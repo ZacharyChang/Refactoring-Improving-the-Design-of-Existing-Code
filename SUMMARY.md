@@ -24,4 +24,5 @@
    * [数据泥团](shu_ju_ni_tuan.md)
    * [基本类型偏执](ji_ben_lei_xing_pian_zhi.md)
    * [switch 惊悚现身](switch_liang_song_xian_shen.md)
+   * 平行继承体系
 
