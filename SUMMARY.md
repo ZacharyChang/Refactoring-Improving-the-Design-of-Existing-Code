@@ -58,4 +58,5 @@
    * [Move Method](move_method.md)
    * [Move Field](move_field.md)
    * [Extract Class](extract_class.md)
+   * Inline Class
 
