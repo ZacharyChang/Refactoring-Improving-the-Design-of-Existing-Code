@@ -22,4 +22,5 @@
    * [霰弹式修改](xian_dan_shi_xiu_gai.md)
    * [依恋情结](yi_lian_qing_jie.md)
    * [数据泥团](shu_ju_ni_tuan.md)
+   * 基本类型偏执
 
