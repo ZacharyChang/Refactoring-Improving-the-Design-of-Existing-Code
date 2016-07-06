@@ -7,6 +7,7 @@
    * [起点](qi_dian.md)
    * [重构的第一步](zhong_gou_de_di_yi_bu.md)
    * [分解并重组statement ()](fen_jie_bing_zhong_zu_statement.md)
+   * 运用多态取代与价格相关的条件逻辑
 * [第二章 重构原则](chapter2.md)
    * [何为重构](he_wei_zhong_gou.md)
    * [为何重构](wei_he_zhong_gou.md)
