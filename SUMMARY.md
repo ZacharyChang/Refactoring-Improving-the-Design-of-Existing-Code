@@ -31,5 +31,5 @@
    * [过度耦合的消息链](guo_du_ou_he_de_xiao_xi_lian.md)
    * [中间人](zhong_jian_ren.md)
    * [狎昵关系](xia_ni_guan_xi.md)
-   * 异曲同工的类
+   * [异曲同工的类](yi_qu_tong_gong_de_lei.md)
 
