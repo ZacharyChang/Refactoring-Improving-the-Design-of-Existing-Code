@@ -17,4 +17,5 @@
    * [重复代码](zhong_fu_dai_ma.md)
    * [过长函数](guo_chang_han_shu.md)
    * [过大的类](guo_da_de_lei.md)
+   * 过长参数列
 
