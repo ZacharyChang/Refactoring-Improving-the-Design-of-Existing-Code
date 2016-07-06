@@ -61,4 +61,5 @@
    * [Inline Class](inline_class.md)
    * [Hide Delegate](hide_delegate.md)
    * [Remove Middle Man](remove_middle_man.md)
+   * Introduce Foreign Method
 
