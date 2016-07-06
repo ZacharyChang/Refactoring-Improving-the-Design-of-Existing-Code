@@ -30,5 +30,5 @@
    * [令人迷惑的暂时字段](ling_ren_mi_huo_de_zan_shi_zi_duan.md)
    * [过度耦合的消息链](guo_du_ou_he_de_xiao_xi_lian.md)
    * [中间人](zhong_jian_ren.md)
-   * 狎昵关系
+   * [狎昵关系](xia_ni_guan_xi.md)
 
