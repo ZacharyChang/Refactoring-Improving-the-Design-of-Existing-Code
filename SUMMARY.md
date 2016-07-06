@@ -54,7 +54,7 @@
    * [Remove Assignments to Parameters](remove_assignments_to_parameters.md)
    * [Replace Method with Method Object](replace_method_with_method_object.md)
    * [Substitute Algorithm](substitute_algorithm.md)
-* [第7章 在对象之间搬移特性](di_qi_zhang_zai_dui_xiang_zhi_jian_ban_yi_te_xing.md)
+* [第七章 在对象之间搬移特性](di_qi_zhang_zai_dui_xiang_zhi_jian_ban_yi_te_xing.md)
    * [Move Method](move_method.md)
    * [Move Field](move_field.md)
    * [Extract Class](extract_class.md)
