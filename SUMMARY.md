@@ -18,4 +18,5 @@
    * [过长函数](guo_chang_han_shu.md)
    * [过大的类](guo_da_de_lei.md)
    * [过长参数列](guo_chang_can_shu_lie.md)
+   * 发散式变化
 
