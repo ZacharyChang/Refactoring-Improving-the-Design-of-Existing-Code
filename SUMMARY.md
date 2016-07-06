@@ -59,5 +59,5 @@
    * [Move Field](move_field.md)
    * [Extract Class](extract_class.md)
    * [Inline Class](inline_class.md)
-   * Hide Delegate
+   * [Hide Delegate](hide_delegate.md)
 
