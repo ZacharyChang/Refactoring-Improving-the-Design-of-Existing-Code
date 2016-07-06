@@ -13,6 +13,7 @@
    * [重构与设计](zhong_gou_yu_she_ji.md)
    * [重构与性能](zhong_gou_yu_xing_neng.md)
    * [重构起源何处](zhong_gou_qi_yuan_he_chu.md)
+   * 夸夸其谈未来性
 * [第三章 代码的坏味道](di_san_zhang_dai_ma_de_huai_wei_dao.md)
    * [重复代码](zhong_fu_dai_ma.md)
    * [过长函数](guo_chang_han_shu.md)
