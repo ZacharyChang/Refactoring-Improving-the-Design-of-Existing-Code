@@ -28,4 +28,5 @@
    * [冗赘类](rong_zhui_lei.md)
    * [夸夸其谈未来性](kua_kua_qi_tan_wei_lai_xing.md)
    * [令人迷惑的暂时字段](ling_ren_mi_huo_de_zan_shi_zi_duan.md)
+   * 过度耦合的消息链
 
