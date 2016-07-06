@@ -7,15 +7,9 @@ Inline Class正好与Extract Class相反。如果一个类不再承担足够责�
 
 ##做法
 * 在目标类身上声明源类的public协议，并将其中所有函数委托至源类。
-如果“以一个独立接口表示源类函数”更合适的话，就应该在内联之前先 使用 Extract Interface (34V)。
-□修改所有源类引用点，改而引用目标类。
-令将源类声明为private,以斩断包之外的所有引用可能•同时修改源类的名 称，这便可使编译器帮助你捕捉到所有对于源类的隐藏引用点。
-□编译，测试。
-□运用Move (142)和Move F/eW (146),将源类的特性全部搬移到目标类。
-Person
-getTelephoneNumber
-Telephone Number
-areaCode
-number
-getTelephoneNumber
-为源类举行一个简单的“丧礼”
+  * 如果“以一个独立接口表示源类函数”更合适的话，就应该在内联之前先使用Extract Interface。
+* 修改所有源类引用点，改而引用目标类。
+  * 将源类声明为private,以斩断包之外的所有引用可能。同时修改源类的名称，这便可使编译器帮助你捕捉到所有对于源类的隐藏引用点。
+* 编译，测试。
+* 运用Move Method和Move Field,将源类的特性全部搬移到目标类。
+* 为源类举行一个简单的“丧礼”
