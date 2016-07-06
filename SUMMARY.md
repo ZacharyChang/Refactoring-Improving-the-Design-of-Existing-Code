@@ -16,4 +16,5 @@
 * [第三章 代码的坏味道](di_san_zhang_dai_ma_de_huai_wei_dao.md)
    * [重复代码](zhong_fu_dai_ma.md)
    * [过长函数](guo_chang_han_shu.md)
+       * 过大的类
 
