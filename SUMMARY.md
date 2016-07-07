@@ -73,4 +73,5 @@
    * [Change Value to Reference](change_value_to_reference.md)
    * [Replace Array with Object](replace_array_with_object.md)
    * [Duplicate Observed Data](duplicate_observed_data.md)
+   * Change Reference to Value
 
