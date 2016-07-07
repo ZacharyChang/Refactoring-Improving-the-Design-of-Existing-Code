@@ -75,5 +75,5 @@
    * [Replace Array with Object](replace_array_with_object.md)
    * [Duplicate Observed Data](duplicate_observed_data.md)
    * [Change Unidirectional Association to Bidirectional](change_unidirectional_association_to_bidirectional.md)
-   * Change Bidirectional Association to Unidirectional
+   * [Change Bidirectional Association to Unidirectional](change_bidirectional_association_to_unidirectional.md)
 
