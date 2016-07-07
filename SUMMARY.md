@@ -77,5 +77,5 @@
    * [Change Unidirectional Association to Bidirectional](change_unidirectional_association_to_bidirectional.md)
    * [Change Bidirectional Association to Unidirectional](change_bidirectional_association_to_unidirectional.md)
    * [Replace Magic Number with Symbolic Constant](replace_magic_number_with_symbolic_constant.md)
-   * Encapsulate Field
+   * [Encapsulate Field](encapsulate_field.md)
 
