@@ -71,5 +71,5 @@
    * [Self Encapsulate Field](self_encapsulate_field.md)
    * [Replace Data Value with Object](replace_data_value_with_object.md)
    * [Change Value to Reference](change_value_to_reference.md)
-   * Replace Array with Object
+   * [Replace Array with Object](replace_array_with_object.md)
 
