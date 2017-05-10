@@ -1,1 +1,1 @@
-# Encapsulate Collection 封装集合
+# Replace Record with Data Class 浠ユ暟鎹被鍙栦唬璁板綍
