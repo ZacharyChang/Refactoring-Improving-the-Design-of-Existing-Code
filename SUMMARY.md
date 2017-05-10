@@ -79,5 +79,5 @@
   * [Replace Magic Number with Symbolic Constant](replace_magic_number_with_symbolic_constant.md)
   * [Encapsulate Field](encapsulate_field.md)
   * [Encapsulate Collection](encapsulate_collection.md)
-  * [Replace Record with Data Class](replace-record-with-data-class.md)
+  * [Replace Record with Data Class](replace_record_with_data_class.md)
 
