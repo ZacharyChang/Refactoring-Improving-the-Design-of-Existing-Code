@@ -80,4 +80,5 @@
   * [Encapsulate Field](encapsulate_field.md)
   * [Encapsulate Collection](encapsulate_collection.md)
   * [Replace Record with Data Class](replace-record-with-data-class.md)
+  * [Replace Type Code with Class](replace-type-code-with-class.md)
 
