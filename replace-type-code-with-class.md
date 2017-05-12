@@ -27,3 +27,7 @@
   * 你也可能需要一次性修改多个彼此相关的函数，才能保持这些函数之间的一致性，才能顺利地编译、测试。
 * 删除使用类型码的旧接口，并删除保存旧类型码的静态变量。
 * 编译，测试。
+
+[foo]: http://example.com/  "Optional Title Here"
+[foo]: http://example.com/  'Optional Title Here'
+[foo]: http://example.com/  (Optional Title Here)
